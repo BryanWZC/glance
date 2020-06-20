@@ -130,7 +130,7 @@ Either way, I had fun producing this project from design to code. See below for 
 &nbsp;
 
 <p align='center'>
-  <img width='300px' height='900px' src = './images/screenshot-iphone-actual.png'>
+  <img width='400px' height='720px' src = './images/screenshot-iphone-actual.png'>
   <h5 style ='text-align: center'>Figure 11: Website on  iphone plus view</h5>
 </p>
 
