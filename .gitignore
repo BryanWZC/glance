@@ -24,3 +24,8 @@ yarn-error.log*
 
 #Icon Folder
 /Icons
+
+#others
+.gitignore
+package.json
+package-lock.json
