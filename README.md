@@ -18,7 +18,7 @@ A quick search resulted in a few news websites that churned my creativity. A sit
 &nbsp;
 
 <p align='center'>
-  <img width='700px' height='500px' src = './images/screenshot-the-new-york-times.png'>
+  <img width='900px' height='420px' src = './images/screenshot-the-new-york-times.png'>
   <h5 style ='text-align: center'>Figure 1: The New York Times Website</h5>
 </p>
 
@@ -50,14 +50,14 @@ With pieces of my website figured out, I needed a canvas to stitch it together. 
 &nbsp;
 
 <p align='center'>
-  <img width='800px' height='400px' src = './images/screenshot-ipad-pro.png'>
+  <img width='800px' height='1120px' src = './images/screenshot-ipad-pro.png'>
   <h5 style ='text-align: center'>Figure 5: ipad pro view</h5>
 </p>
 
 &nbsp;
 
 <p align='center'>
-  <img width='800px' height='400px' src = './images/screenshot-iphone.png'>
+  <img width='300px' height='900px' src = './images/screenshot-iphone.png'>
   <h5 style ='text-align: center'>Figure 6: iphone plus view</h5>
 </p>
 
@@ -123,14 +123,14 @@ Either way, I had fun producing this project from design to code. See below for 
 &nbsp;
 
 <p align='center'>
-  <img width='800px' height='400px' src = './images/screenshot-ipad-pro-actual.png'>
+  <img width='800px' height='1120px' src = './images/screenshot-ipad-pro-actual.png'>
   <h5 style ='text-align: center'>Figure 10: Website on ipad pro view</h5>
 </p>
 
 &nbsp;
 
 <p align='center'>
-  <img width='800px' height='400px' src = './images/screenshot-iphone-actual.png'>
+  <img width='300px' height='900px' src = './images/screenshot-iphone-actual.png'>
   <h5 style ='text-align: center'>Figure 11: Website on  iphone plus view</h5>
 </p>
 
